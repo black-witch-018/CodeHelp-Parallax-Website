@@ -36,3 +36,7 @@
     /* object-fit: cover; */
     z-index:-1;
 }
+
+h1{
+    position:absolute;
+}
