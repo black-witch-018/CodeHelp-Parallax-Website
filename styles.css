@@ -51,6 +51,7 @@ h1{
     font-size:5rem;
     padding:0 10rem;
 }
+
 section{
     background-color: rgb(45, 45, 45);
     color:white;
@@ -74,6 +75,7 @@ section{
     padding:0 10rem;
     margin:5rem 0;
 }
+
 .bg{
     position:relative;
     width:100%;
@@ -81,4 +83,15 @@ section{
     background-size: cover;
     background-position: center;
     height:500px;
+}
+
+.desc{
+    position:absolute;
+    top:50%;
+    left:35%;
+    background-color: white;
+    padding:0.5rem 2.5rem;
+    color:black;
+    font-size: 3.5rem;
+    font-weight: 600px;
 }
