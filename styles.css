@@ -74,3 +74,9 @@ section{
     padding:0 10rem;
     margin:5rem 0;
 }
+.bg{
+    position:relative;
+    width:100%;
+    background-attachment: fixed; /*Fixes the background image so that the content can scroll over it.*/
+    height:500px;
+}
