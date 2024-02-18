@@ -78,5 +78,7 @@ section{
     position:relative;
     width:100%;
     background-attachment: fixed; /*Fixes the background image so that the content can scroll over it.*/
+    background-size: cover;
+    background-position: center;
     height:500px;
 }
