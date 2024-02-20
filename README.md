@@ -1,2 +1,2 @@
-# Parallel Website
+# Parallax Website
  
